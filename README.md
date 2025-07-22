@@ -16,8 +16,8 @@ This Power BI dashboard explores how coffee consumption and sleep hours affect p
 - Sleep hours generally correlate with higher productivity
 
 ## 📁 Files Included
- Full Power BI report
- Snapshot of final dashboard
+1. Full Power BI report
+2. Snapshot of final dashboard
 
 ## 📬 Contact
 Created using Power BI Desktop by Ahana Mukhopadhyay  
